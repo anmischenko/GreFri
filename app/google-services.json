@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1060901527172",
+    "project_id": "grefri-993bc",
+    "storage_bucket": "grefri-993bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060901527172:android:39c9b1f536782ec8c42cd1",
+        "android_client_info": {
+          "package_name": "com.example.grefri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060901527172-4k0eabo403k2mmr499p3gllgv594jhog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPNCCcfrgh0WsSogyE5Tuwvfj9XFoLeCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060901527172-4k0eabo403k2mmr499p3gllgv594jhog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
