@@ -36,7 +36,7 @@ public class AccountFragment extends Fragment {
         addNoteBtn.setOnClickListener(new View.OnClickListener() {
                                           @Override
                                           public void onClick(View view) {
-                                              Intent intent=new Intent(getContext(), AddNoteActivity.class);
+                                              Intent intent = new Intent(getContext(), NoteDetailsActivity.class);
                                               startActivity(intent);
                                           }
                                       });
